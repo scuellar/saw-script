@@ -76,10 +76,13 @@ build should complete without any errors.
 
 **TODO: How do we check if this is properly installed before continuing?**
 
-For the sake of this tutorial, it will also be useful to install a
-[user interface](https://coq.inria.fr/user-interfaces.html) to
-interact with extracted Coq code. I recomment installing [Proof
-General](https://proofgeneral.github.io/).
+Since we will interact with the extracted coq code you'll want to
+install a [user interface](https://coq.inria.fr/user-interfaces.html)
+to interact with extracted Coq code. I recomment installing [Proof
+General](https://proofgeneral.github.io/) if you are familiar with
+emacs or
+[CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html)
+itherwise.
 
 Before continuing, return to the top-level directory with `cd ../..`.
 
